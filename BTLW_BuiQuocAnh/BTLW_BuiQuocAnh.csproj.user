@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmDangnhap\FrmDangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmDinhluongnguyenlieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmHoadonxuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmNhanvienUse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlyban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlykho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlynhacungcap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlynhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlysanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlythucdon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmQuanlyloaithucdon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
